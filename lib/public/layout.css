@@ -1,0 +1,38 @@
+header {
+    background: white;
+    border-bottom: solid black;
+    border-width: 1px;
+    border: 1px solid #999;
+}
+
+body {
+    background: #eee;
+}
+
+.sidebar {
+    background: white;
+    float: left;
+    border: solid black;
+    border-width: 1px;
+}
+
+.main {
+    background: #grey;
+    border: 1px solid #999;
+}
+
+div.etsy_products {
+    float: left;
+    width: 175px;
+    border: 1px solid #999;
+    margin: 0 15px 15px 0;
+    padding: 5px;
+}
+
+.items img {
+  width: 220px;
+  height: 227px;
+  display: inline-block;
+  float: left;
+  padding: 9px;
+}

@@ -1,12 +1,8 @@
 source 'https://rubygems.org'
 
 gem "httparty"
-gem "etsy"
-
-group :development
-	
+gem "etsy"	
 gem "pry"
-
-end
+gem "sinatra"
 # Specify your gem's dependencies in etsiest.gemspec
 gemspec
